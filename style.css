@@ -1,0 +1,57 @@
+html,
+body{
+    font-family: "Gill Sans", sans-serif;
+}
+.card {
+    align-items: center;
+}
+
+.navbar-brand {
+    font-display: #ffffff;
+}
+
+.button{
+    background: #ffffff;
+}
+
+.btn-submit {
+    margin-top: auto;
+    align-self: flex-end;
+}
+
+#kalimat{
+    margin-left: 10px;
+}
+
+.kalimat {
+    text-align: center;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tombol{
+    text-align: center;
+}
+
+#nyoba {
+    margin-left: 750px;
+}
+
+#form {
+    padding-bottom: 0px;
+}
+
+#input {
+    margin-bottom: 50px;
+}
+
+.inputan {
+    margin-left: 30px;
+}
+.col-6 {
+    width: 200;
+}
